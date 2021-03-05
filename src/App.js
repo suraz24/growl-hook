@@ -7,7 +7,7 @@ import { Growl } from "./growl";
 import { useGrowl } from "./hooks/useGrowl";
 
 function App() {
-  const [active, setActive] = useGrowl(5);
+  const [active, setActive] = useGrowl();
 
   return (
     <div className="App">
