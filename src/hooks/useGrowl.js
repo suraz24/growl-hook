@@ -16,7 +16,7 @@ export const useGrowl = (timeout = 3) => {
         clearTimeout(timeoutHandler);
       }
     };
-  }, [growlActive]);
+  }, [growlActive, timeoutInMs]);
 
   return [
     // the first arg is the state

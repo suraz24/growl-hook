@@ -5,7 +5,7 @@ import * as serviceWorker from './serviceWorker'
 
 import './index.css'
 import App from './App'
-import SomeOtherComponent from './SomeOtherPage'
+import SomeOtherComponent from './views/SomeOtherPage'
 
 ReactDOM.render(
 	<React.StrictMode>

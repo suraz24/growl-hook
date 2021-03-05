@@ -3,11 +3,12 @@ import { Link } from "react-router-dom";
 
 import logo from "./logo.svg";
 import "./App.css";
-import { Growl } from "./growl";
+import { Growl } from "./components/growl";
 import { useGrowl } from "./hooks/useGrowl";
 
-function App() {
-  const [active, setActive] = useGrowl();
+function App({timeout = 3}) {
+
+  const [active, setActive] = useGrowl(timeout);
 
   return (
     <div className="App">
