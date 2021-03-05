@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/growl-hook/static/css/main.733d5ec1.chunk.css",
+    "main.js": "/growl-hook/static/js/main.493af261.chunk.js",
+    "main.js.map": "/growl-hook/static/js/main.493af261.chunk.js.map",
+    "runtime-main.js": "/growl-hook/static/js/runtime-main.c2cdc7a2.js",
+    "runtime-main.js.map": "/growl-hook/static/js/runtime-main.c2cdc7a2.js.map",
+    "static/css/2.bfbf028b.chunk.css": "/growl-hook/static/css/2.bfbf028b.chunk.css",
+    "static/js/2.1c55d895.chunk.js": "/growl-hook/static/js/2.1c55d895.chunk.js",
+    "static/js/2.1c55d895.chunk.js.map": "/growl-hook/static/js/2.1c55d895.chunk.js.map",
+    "index.html": "/growl-hook/index.html",
+    "precache-manifest.9ef32d3b08bab0734a75bff46f5dd21e.js": "/growl-hook/precache-manifest.9ef32d3b08bab0734a75bff46f5dd21e.js",
+    "service-worker.js": "/growl-hook/service-worker.js",
+    "static/css/2.bfbf028b.chunk.css.map": "/growl-hook/static/css/2.bfbf028b.chunk.css.map",
+    "static/css/main.733d5ec1.chunk.css.map": "/growl-hook/static/css/main.733d5ec1.chunk.css.map",
+    "static/js/2.1c55d895.chunk.js.LICENSE.txt": "/growl-hook/static/js/2.1c55d895.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/growl-hook/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2cdc7a2.js",
+    "static/css/2.bfbf028b.chunk.css",
+    "static/js/2.1c55d895.chunk.js",
+    "static/css/main.733d5ec1.chunk.css",
+    "static/js/main.493af261.chunk.js"
+  ]
+}
